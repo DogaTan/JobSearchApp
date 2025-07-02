@@ -136,4 +136,4 @@ Manages CORS, authentication (JWT verification), and request forwarding.
 [📺 Watch the video here](https://drive.google.com/file/d/1efmEsC9Znt6SVIG3hsOnRi1r2kv5wKge/view?usp=sharing)
 
 ## Home Page Image
-![Home Page]("home page.png")
+[Home Page](home-page.png)
