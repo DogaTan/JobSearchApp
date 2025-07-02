@@ -240,6 +240,8 @@ Manages CORS, authentication (JWT verification), and request forwarding.
 5. Start React frontend (`npm start`) pointing API calls to the gateway URL.  
 
 ---
+## 🎥 Presentation Video
 
+[📺 Watch the video here](https://drive.google.com/file/d/1kB6Xe3Dp_CLF1oakW0PXYRG1G0jNljqx/view?usp=sharing)
 
 
