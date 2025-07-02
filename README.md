@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/f2f5c194-3341-45a7-88d3-e2db9b21a54c)
 # JobSearchApp
 
 JobSearchApp is a microservices-based job search web application similar to kariyer.net.  
@@ -134,3 +134,6 @@ Manages CORS, authentication (JWT verification), and request forwarding.
 
 ## 🎥 Presentation Video(Long Version / Better Image Quality)
 [📺 Watch the video here](https://drive.google.com/file/d/1efmEsC9Znt6SVIG3hsOnRi1r2kv5wKge/view?usp=sharing)
+
+## Home Page Image
+![Home Page]("home page.png")
