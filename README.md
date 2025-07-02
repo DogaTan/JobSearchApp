@@ -245,3 +245,5 @@ Manages CORS, authentication (JWT verification), and request forwarding.
 [📺 Watch the video here](https://drive.google.com/file/d/1kB6Xe3Dp_CLF1oakW0PXYRG1G0jNljqx/view?usp=sharing)
 
 
+## 🎥 Presentation Video(Long Version / Better Image Quality)
+[📺 Watch the video here](https://drive.google.com/file/d/1efmEsC9Znt6SVIG3hsOnRi1r2kv5wKge/view?usp=sharing)
