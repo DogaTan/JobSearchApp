@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/f2f5c194-3341-45a7-88d3-e2db9b21a54c)
 # JobSearchApp
 
 JobSearchApp is a microservices-based job search web application similar to kariyer.net.  
