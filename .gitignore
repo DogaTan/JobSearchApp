@@ -1,0 +1,16 @@
+# Backend
+**/target/
+**/build/
+
+# Frontend
+node_modules/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
