@@ -134,5 +134,5 @@ Manages CORS, authentication (JWT verification), and request forwarding.
 ## 🎥 Presentation Video(Long Version / Better Image Quality)
 [📺 Watch the video here](https://drive.google.com/file/d/1efmEsC9Znt6SVIG3hsOnRi1r2kv5wKge/view?usp=sharing)
 
-## Home Page Image
+## Home Page AI Chat Image
 [Home Page](home-page.png)
